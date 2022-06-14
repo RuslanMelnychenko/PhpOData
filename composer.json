@@ -12,7 +12,9 @@
         }
     ],
     "require": {
-        "slim/slim": "4.*",
-        "apigen/apigen": "v4.1.2"
+        "slim/slim": "4.*"
+    },
+    "require-dev": {
+        "apigen/apigen": "^4.1"
     }
 }
