@@ -1,10 +1,14 @@
 {
-    "name": "vendor/php-o-data",
+    "name": "ruslanmelnychenko/php-o-data",
     "description": "Description of project PhpOData.",
     "authors": [
         {
             "name": "Ivan Lausuch Sales",
             "email": "ilausuch@gmail.com"
+        },
+        {
+            "name": "Ruslan Melnychenko",
+            "email": "ruslan.meln@gmail.com"
         }
     ],
     "require": {
